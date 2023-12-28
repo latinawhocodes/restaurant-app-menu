@@ -1,2 +1,4 @@
-# restaurant-app-menu
- React Food Ordering Website
+# React + Vite
+
+Created with npx create-vite 
+
